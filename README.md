@@ -56,4 +56,5 @@ NOTE: You don't have to use any pre-trained model using Transfer learning. All t
 
  
 
-The model training may take time to train and hence you can use Google colab.
+#### Conclusion
+As the accuracy of the model increases, the loss decreases. The final model has an accuracy of 87% and a loss of 0.3. The model is able to predict the class of the lesion with a high accuracy. Augmenting the data and countering class imbalance helped in improving the accuracy of the model.
